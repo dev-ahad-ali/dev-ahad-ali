@@ -27,24 +27,24 @@ I'm a passionate Web-Developer also a student.I am improving my web development 
 
 <img src="./img/html.svg" width="45" hsapce="10" align="left" >
 <img src="./img/css.svg" width="45" hsapce="10" align="left" >
-<img src="./img/javascript.svg" width="45" hsapce="10">
-<img src="./img/bootstrap.svg" width="45" hsapce="10">
-<img src="./img/sass.svg" width="45" hsapce="10">
-<img src="./img/tailwind.svg" width="45" hsapce="10">
-<img src="./img/jquery.svg" width="45" hsapce="10">
-<img src="./img/node-js.svg" width="45" hsapce="10">
-<img src="./img/react.svg" width="45" hsapce="10">
-<img src="./img/nextjs.svg" width="45" hsapce="10">
+<img src="./img/javascript.svg" width="45" hsapce="10" align="left" >
+<img src="./img/bootstrap.svg" width="45" hsapce="10" align="left" >
+<img src="./img/sass.svg" width="45" hsapce="10" align="left" >
+<img src="./img/tailwind.svg" width="45" hsapce="10" align="left" >
+<img src="./img/jquery.svg" width="45" hsapce="10" align="left" >
+<img src="./img/node-js.svg" width="45" hsapce="10" align="left" >
+<img src="./img/react.svg" width="45" hsapce="10" align="left" >
+<img src="./img/nextjs.svg" width="45" hsapce="10" align="left" >
 <!-- My Skills Ending -->
 
 <!-- Other Skills Starting -->
 ### 💻 Other Skill :
-<img src="./img/adobe-illustrator.svg" width="45" hsapce="10">
-<img src="./img/adobe-photoshop.svg" width="45" hsapce="10">
-<img src="./img/microsoftoffice.svg" width="45" hsapce="10">
-<img src="./img/canva.svg" width="45" hsapce="10">
-<img src="./img/windows-applications.svg" width="45" hsapce="10">
-<img src="./img/android-color.svg" width="45" hsapce="10">
+<img src="./img/adobe-illustrator.svg" width="45" hsapce="10" align="left" >
+<img src="./img/adobe-photoshop.svg" width="45" hsapce="10" align="left" >
+<img src="./img/microsoftoffice.svg" width="45" hsapce="10" align="left" >
+<img src="./img/canva.svg" width="45" hsapce="10" align="left" >
+<img src="./img/windows-applications.svg" width="45" hsapce="10" align="left" >
+<img src="./img/android-color.svg" width="45" hsapce="10" align="left" >
 <!-- Other Skills Ending -->
 
 <br>
