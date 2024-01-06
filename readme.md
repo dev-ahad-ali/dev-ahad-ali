@@ -6,7 +6,7 @@
 
 ## 👋 Hi, I'm Ahad Ali
 
-An enthusiastic Web-Developer & Student.<br>
+An enthusiastic Web-Developer & a Student.<br>
 🏠 Living: Jamalpur, Bangladesh.
 
 <!-- Contact  Me Starting --->
