@@ -4,7 +4,7 @@
 
 <h1 style="text-align:center; font-style:italic;color:lightyellow;text-transform:uppercase;"><span style="font-style:normal;">😊</span> I appreciate your visit !</h1>
 
-## ~I'm Ahad Ali~
+## 👋 Hi, I'm Ahad Ali
 
 An enthusiastic Web-Developer & Student.<br>
 🏠 Living: Jamalpur, Bangladesh.
