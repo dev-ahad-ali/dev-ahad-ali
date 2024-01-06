@@ -37,6 +37,9 @@ I'm a passionate Web-Developer also a student.I am improving my web development 
 <img src="./img/nextjs.svg" width="45" hsapce="10" align="left" >
 <!-- My Skills Ending -->
 
+<br>
+<br>
+
 <!-- Other Skills Starting -->
 ### 💻 Other Skill :
 <img src="./img/adobe-illustrator.svg" width="45" hsapce="10" align="left" >
@@ -47,6 +50,7 @@ I'm a passionate Web-Developer also a student.I am improving my web development 
 <img src="./img/android-color.svg" width="45" hsapce="10" align="left" >
 <!-- Other Skills Ending -->
 
+<br>
 <br>
 <br>
 
