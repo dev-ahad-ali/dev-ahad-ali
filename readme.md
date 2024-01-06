@@ -1,9 +1,10 @@
 <!-- Banner Image Starting -->
 <img src="./img/git-banner.png" width="100%">
 <!-- Banner Image Ending -->
-<br>
+
 <h1 style="text-align:center; font-style:italic;color:lightyellow;text-transform:uppercase;"><span style="font-style:normal;">😊</span> I appreciate your visit !</h1>
-<span style="font-size:28px;font-weight:600;">~I'm Ahad Ali~</span>
+
+## ~I'm Ahad Ali~
 
 An enthusiastic Web-Developer & Student.<br>
 🏠 Living: Jamalpur, Bangladesh.
