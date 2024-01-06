@@ -61,7 +61,58 @@ I'm a passionate Web-Developer also a student.I am improving my web development 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ahad-ali)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ahad-ali&show_icons=true)
+
+<br>
 <!-- GitHub Stats Ending -->
+
+<!-- Employment History Starting -->
+### 💼 &nbsp; Employment History
+
+| Position            | Institute                                   | Duration            | Location           |
+| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
+| Front-End Dev & Trainer  | Unique-IT                                   | Oct 2023 - Running  | Jamalpur, Bangladesh  |
+
+<br>
+<!-- Employment History Ending -->
+
+<!-- Education Info Starting-->
+### 👨🏻‍🎓 Education :
+
+1. Hons. in Chemistry  
+   Govt. Ashek Mahmud College  
+   Jamalpur, Bangladesh.
+
+   <br>
+<!-- Education Info Ending-->
+
+<!-- Language Skill Starting-->
+### Languages:
+
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🇮🇳 Hindi : Intermediate
+- ur Urdu : Basic
+  <br />
+
+<!-- Language Skill Ending-->
+
+<!-- Sports and Game Starting  -->
+
+### Sports / Game / Activities / Hobby:
+
+- ⚽ Football,🏏 Cricket,  🏸 Badminton, ♟️ Chess,
+- 🏃‍♂️ Running, 🚶‍♂️ Walking
+- ✈️ Travelling
+
+<br />
+<!-- Sports and Game Ending  -->
+
+---
+
+Thanks for going through my Profile.
+All rights reserved by Ahad Ali @2023
+
+---
 
 <!-- Important Links -->
 [website]:comming-soon
