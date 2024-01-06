@@ -25,8 +25,8 @@ I'm a passionate Web-Developer also a student.I am improving my web development 
 <!-- My Skills Starting -->
 ### 👨🏻‍💻 My Skills :
 
-<img src="./img/html.svg" width="45" hsapce="10">
-<img src="./img/css.svg" width="45" hsapce="10">
+<img src="./img/html.svg" width="45" hsapce="10" align="left" >
+<img src="./img/css.svg" width="45" hsapce="10" align="left" >
 <img src="./img/javascript.svg" width="45" hsapce="10">
 <img src="./img/bootstrap.svg" width="45" hsapce="10">
 <img src="./img/sass.svg" width="45" hsapce="10">
