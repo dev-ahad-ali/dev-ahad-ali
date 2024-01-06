@@ -90,8 +90,9 @@ I'm a passionate Web-Developer also a student.I am improving my web development 
 
 - 🇧🇩 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🇵🇰 Urdu : Basic
 - 🇮🇳 Hindi : Intermediate
-- ur Urdu : Basic
+
   <br />
 
 <!-- Language Skill Ending-->
