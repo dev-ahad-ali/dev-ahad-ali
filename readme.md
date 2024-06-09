@@ -75,17 +75,6 @@ I'm a passionate Web-Developer also a student.I am improving my web development 
 <br>
 <!-- GitHub Stats Ending -->
 
-<!-- Employment History Starting -->
-
-### 💼 &nbsp; Employment History
-
-| Position                | Institute | Duration           | Location             |
-| ----------------------- | --------- | ------------------ | -------------------- |
-| Front-End Dev & Trainer | Unique-IT | Oct 2023 - Running | Jamalpur, Bangladesh |
-
-<br>
-<!-- Employment History Ending -->
-
 <!-- Education Info Starting-->
 
 ### 👨🏻‍🎓 Education :
