@@ -1,124 +1,29 @@
-<!-- Banner Image Starting -->
-<img src="./img/git-banner.png" width="100%">
+<h1 align="center">Hi 👋, I'm Ahad Ali</h1>
+<h3 align="center">A Keen MERN Stack developer</h3>
 
-![](https://komarev.com/ghpvc/?username=dev-ahad-ali&color=blueviolet&style=for-the-badge)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ahad-ali&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ahad-ali" /> </p>
 
-<!-- Banner Image Ending -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-ahad-ali" alt="dev-ahad-ali" /></a> </p>
 
-<h1 style="text-align:center; font-style:italic;color:lightyellow;text-transform:uppercase;"><span style="font-style:normal;">😊</span> I appreciate your visit !</h1>
+- 🔭 I’m currently working on [Urban Oasis](comming soon)
 
-## 👋 Hi, I'm Ahad Ali
+- 👨‍💻 All of my projects are available at [comming soon](comming soon)
 
-An enthusiastic Web-Developer & a Student.<br>
-🏠 Living: Jamalpur, Bangladesh.
+- 📫 How to reach me **ahadali.dev@gmail.com**
 
-<!-- Contact  Me Starting --->
-
-[<img src="./img/website.svg" width="45" hsapce="10" alt="website">][website]
-[<img src="./img/facebook.svg" width="45" hsapce="10" alt="website">][facebook]
-[<img src="./img/linkedin.svg" width="45" hsapce="10" alt="website">][linkedin]
-
-<!-- Contact  Me Ending --->
-
-<!-- About ME Starting -->
-
-### 👨🏻‍🏫 About Me :
-
-<p align="justify">
-I'm a passionate Web-Developer also a student.I am improving my web development skills. Every day I want to learn something new and share my knowledge with everyone.Also working as a part time Front-End web developer and a trainer at Unique IT, Bangladesh.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dev-ahad-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-ahad-ali" height="30" width="40" /></a>
+<a href="https://fb.com/ahad.dev01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahad.dev01" height="30" width="40" /></a>
+<a href="https://discord.gg/dev_ahadali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dev_ahadali" height="30" width="40" /></a>
 </p>
-<!-- About ME Ending -->
 
-<!-- My Skills Starting -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### 👨🏻‍💻 My Skills :
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ahad-ali&show_icons=true&locale=en&layout=compact" alt="dev-ahad-ali" /></p>
 
-<img src="./img/html.svg" width="45" hsapce="10" align="left" >
-<img src="./img/css.svg" width="45" hsapce="10" align="left" >
-<img src="./img/javascript.svg" width="45" hsapce="10" align="left" >
-<img src="./img/bootstrap.svg" width="45" hsapce="10" align="left" >
-<img src="./img/sass.svg" width="45" hsapce="10" align="left" >
-<img src="./img/tailwind.svg" width="45" hsapce="10" align="left" >
-<img src="./img/jquery.svg" width="45" hsapce="10" align="left" >
-<img src="./img/node-js.svg" width="45" hsapce="10" align="left" >
-<img src="./img/react.svg" width="45" hsapce="10" align="left" >
-<img src="./img/nextjs.svg" width="45" hsapce="10" align="left" >
-<!-- My Skills Ending -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ahad-ali&show_icons=true&locale=en" alt="dev-ahad-ali" /></p>
 
-<br>
-<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ahad-ali&" alt="dev-ahad-ali" /></p>
 
-<!-- Other Skills Starting -->
-
-### 💻 Other Skill :
-
-<img src="./img/adobe-illustrator.svg" width="45" hsapce="10" align="left" >
-<img src="./img/adobe-photoshop.svg" width="45" hsapce="10" align="left" >
-<img src="./img/microsoftoffice.svg" width="45" hsapce="10" align="left" >
-<img src="./img/canva.svg" width="45" hsapce="10" align="left" >
-<img src="./img/windows-applications.svg" width="45" hsapce="10" align="left" >
-<img src="./img/android-color.svg" width="45" hsapce="10" align="left" >
-<!-- Other Skills Ending -->
-
-<br>
-<br>
-<br>
-
-<!-- GitHub Stats Starting -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahad-ali)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ahad-ali)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ahad-ali&show_icons=true)
-
-<br>
-<!-- GitHub Stats Ending -->
-
-<!-- Education Info Starting-->
-
-### 👨🏻‍🎓 Education :
-
-1. Hons. in Chemistry  
- Govt. Ashek Mahmud College  
- Jamalpur, Bangladesh.
-
-   <br>
-<!-- Education Info Ending-->
-
-<!-- Language Skill Starting-->
-
-### Languages:
-
-- 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
-- 🇵🇰 Urdu : Basic
-- 🇮🇳 Hindi : Intermediate
-
-  <br />
-
-<!-- Language Skill Ending-->
-
-<!-- Sports and Game Starting  -->
-
-### Sports / Game / Activities / Hobby:
-
-- ⚽ Football,🏏 Cricket, 🏸 Badminton, ♟️ Chess,
-- 🏃‍♂️ Running, 🚶‍♂️ Walking
-- ✈️ Travelling
-
-<br />
-<!-- Sports and Game Ending  -->
-
----
-
-Thanks for going through my Profile.
-All rights reserved by Ahad Ali @2023
-
----
-
-<!-- Important Links -->
-
-[website]: comming-soon
-[facebook]: https://www.facebook.com/ahad.dev01
-[linkedin]: comming-soon
