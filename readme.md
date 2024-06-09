@@ -1,5 +1,5 @@
 <!-- Banner Image Starting -->
-<img src="./img/git-banner.png" width="100%">
+<img src="./img/git-banner(2).png" width="100%">
 
 ![](https://komarev.com/ghpvc/?username=dev-ahad-ali&color=blueviolet&style=for-the-badge)
 
@@ -121,4 +121,4 @@ All rights reserved by Ahad Ali @2023
 
 [website]: comming-soon
 [facebook]: https://www.facebook.com/ahad.dev01
-[linkedin]: comming-soon
+[linkedin]: https://www.linkedin.com/in/dev-ahad-ali/
