@@ -6,7 +6,7 @@
 
 ## 🤖 About Me :
 
-I am a keen junior developer who is always looking to learn new and exciting technologies. Right now I'm skilled in Front-end frameworks such as React.Js and mainly using Tailwind CSS for creating responsive website and user-friendly experience. I'm also familiar with other MERN stack technologies such as Express js, MongoDB using them to create Restful APIs and execute other functionalities on the Back-end. I'm looking forward to contribute to your mission of creating innovative and immersive digital experiences.
+I am a keen junior developer who is always looking to learn new and exciting technologies. Right now I'm skilled in Front-end frameworks such as React.Js and styling using Tailwind CSS for creating modern responsive website and user-friendly experiences. I'm also familiar with other MERN stack technologies such as Express js, MongoDB, using them to create Restful APIs and execute other functionalities on the Back-end for a complete web experience. I'm looking forward to contribute to your mission of creating innovative and immersive digital experiences.
 
 🎯 <b>Currently Learning</b> : Next.Js... exploring it's core functionalities and building a complete web experience.
 
