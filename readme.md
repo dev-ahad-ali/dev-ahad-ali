@@ -13,3 +13,15 @@ I am a keen junior developer who is always looking to learn new and exciting tec
 ## 🔎 GitHub Overview :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=493)](https://git.io/streak-stats)
+
+## ⚙️ Skills and Technologies
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,css,html" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,linux,ai,ps" />
+
+</div>
