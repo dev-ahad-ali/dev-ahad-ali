@@ -12,4 +12,4 @@ I am a keen junior developer who is always looking to learn new and exciting tec
 
 ## 🔎 GitHub Overview :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=493)](https://git.io/streak-stats)
