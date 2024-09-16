@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="./img/Brimston.gif" width='100%'/>
+<img src="./img/Brimston.jpg" width='100%'/>
 
 <br>
 
