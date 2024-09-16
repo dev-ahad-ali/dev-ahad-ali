@@ -7,6 +7,15 @@
 
 I am a keen Web developer who is always looking to learn new and exciting technologies. Right now I'm skilled in <b>M.E.R.N</b> stack technologies such as <b>React.js and Redux/ReduxToolkit</b> for complex Frontend UI and state management to ensure a user-friendly experience. <b>TailwindCSS</b> and other libraries for styling and creating modern responsive websites. Familiarity with Backend technologies like <b>Node.js, Express.js, MongoDB/Mongoose</b>, using them to develop Restful APIs and execute other functionalities on the Backend for a complete web experience. I'm also comfortable working with a Full-stack framework <b>NEXT.Js</b>. I'm looking forward to contribute to your mission of creating innovative and immersive digital experiences.
 
+<div align="center">
+<a style="display:flex; gap:5px; width: 200" href="https://dev-ahad-ali.netlify.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ansible" />
+    <h2><i>Portfolio</i></h2>
+  </a>
+</div>
+
+<br>
+
 🎯 <b>Currently Learning</b> : Redux/ReduxToolkit... exploring it's core functionalities.
 
 ## 🔎 GitHub Overview :
@@ -74,6 +83,6 @@ I am a keen Web developer who is always looking to learn new and exciting techno
   </a>
 </div>
 
-Feel free to explore my repositories below and reach out if you're looking for an enthusiastic Web Developer I'm ready to bring creativity and a strong work ethic to your team.
+<p align="center">📝Feel free to explore my repositories below and reach out if you're looking for an enthusiastic Web Developer I'm ready to bring creativity and a strong work ethic to your team.</p>
 
 <br>
