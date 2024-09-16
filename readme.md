@@ -13,6 +13,8 @@ I am a keen Web developer who is always looking to learn new and exciting techno
 
 <div align="center">
 
+<br>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=720)](https://git.io/streak-stats)
 
 </div>
@@ -20,6 +22,8 @@ I am a keen Web developer who is always looking to learn new and exciting techno
 ## ⚙️ Skills and Technologies
 
 <div align="center">
+
+  <br>
   
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,express,nodejs,mongodb,css,html" />
   <br>
