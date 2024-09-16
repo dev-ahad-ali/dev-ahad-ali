@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="./img/Brimston.gif" width='100%'/>
+<img src="https://res.cloudinary.com/ahad-ali/image/upload/v1726510801/Brimston_pk7flr.gif" width='100%'/>
 
 <br>
 
