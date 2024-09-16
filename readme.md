@@ -5,9 +5,9 @@
 
 ## 🤖 About Me :
 
-<div align="center">
+<div>
 <a href="https://dev-ahad-ali.netlify.app/" target="_blank">
-    <img height="50" src="./img/portfolio.png" />
+    <img height="40" src="./img/portfolio.png" />
   </a>
 </div>
 
