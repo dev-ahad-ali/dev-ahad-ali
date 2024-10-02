@@ -8,6 +8,8 @@
 
 # 👋 Hello ! I'm Ahad Ali a passionate <b>WEB/M.E.R.N</b> Dev.
 
+<br>
+
 <div align='center'>
 <a href="https://dev-ahad-ali.netlify.app/" target="_blank">
     <img height="50" src="./img/portfolio.png" />
