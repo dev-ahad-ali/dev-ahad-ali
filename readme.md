@@ -57,15 +57,20 @@ I am a keen Web developer who is always looking to learn new and exciting techno
 
 ## 📟 Projects :
 
-### 🏠 Urban Oasis (An online real estate management platform)
+### 🏠 Foot Finesse (An online shoe selling platform)
 
-- **Live site**: [Urban Oasis](https://urban-oasis-indev.web.app/)
-- [Visit repo for more details.](https://github.com/dev-ahad-ali/urban-oasis-client).
+- **Live site**: [Foot Finesse](https://foot-finesse-alpha.vercel.app/)
+- [Visit repo for more details.](https://github.com/dev-ahad-ali/Foot-Finesse).
 
 ### 💒 Dream Stay (A hotel room booking website)
 
 - **Live site**: [Dream Stay](https://dream-stay-indev.web.app/)
 - [Visit repo for more details.](https://github.com/dev-ahad-ali/dream-stay-client).
+
+### 🏠 Urban Oasis (An online real estate management platform)
+
+- **Live site**: [Urban Oasis](https://urban-oasis-indev.web.app/)
+- [Visit repo for more details.](https://github.com/dev-ahad-ali/urban-oasis-client).
 
 ### 📦 Art Alley (A art listing website)
 
