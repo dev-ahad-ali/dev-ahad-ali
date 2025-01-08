@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dev-ahad-ali&color=f97316&style=for-the-badge)
 
-# 👋 Hello ! I'm Ahad Ali a passionate <b>WEB/M.E.R.N</b> Dev.
+# 👋 Hello ! I'm Ahad Ali a WEB Developer.
 
 <br>
 
@@ -18,9 +18,24 @@
 
 ## 🤖 About Me :
 
-I am a keen Web developer who is always looking to learn new and exciting technologies. Right now I'm skilled in <b>M.E.R.N</b> stack technologies such as <b>React.js and Redux/ReduxToolkit</b> for complex Frontend UI and state management to ensure a user-friendly experience. <b>TailwindCSS</b> and other libraries for styling and creating modern responsive websites. Familiarity with Backend technologies like <b>Node.js, Express.js, MongoDB/Mongoose</b>, using them to develop Restful APIs and execute other functionalities on the Backend for a complete web experience. I'm also comfortable working with a Full-stack framework <b>NEXT.Js</b>. I'm looking forward to contribute to your mission of creating innovative and immersive digital experiences.
+I am a keen Web developer who is always looking to learn new and exciting things.Currently a <b>M.E.R.N</b> stack enthusiast but I like to work with new and exciting technologies. I'm on a mission of creating innovative and immersive digital experiences with a solid base so it can be scalable based on needs.
 
-🎯 <b>Currently Learning</b> : Redux/ReduxToolkit... exploring it's core functionalities.
+<i>Ohh.. btw Javascript is more flexible then a gymnastics..</i> 😂
+
+🎯 <b>Currently Interest</b> : Slowly but surely getting Rust-y 🦀.
+
+## ⚙️ Skills and Technologies
+
+<div align="center">
+
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,astro,react,redux,express,mongodb,tailwind" />
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,neovim,git,github,vscode,postman,bootstrap,sass,figma,ai" />
+
+</div>
 
 ## 🔎 GitHub Overview :
 
@@ -29,19 +44,6 @@ I am a keen Web developer who is always looking to learn new and exciting techno
 <br>
 
 ![](https://streak-stats.demolab.com?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=720)
-
-</div>
-
-## ⚙️ Skills and Technologies
-
-<div align="center">
-
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,express,nodejs,mongodb,css,html" />
-  <br>
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,bootstrap,firebase,sass,npm,figma,linux,ai,ps" />
 
 </div>
 
