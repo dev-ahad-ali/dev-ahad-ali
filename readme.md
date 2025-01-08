@@ -28,7 +28,7 @@ I am a keen Web developer who is always looking to learn new and exciting techno
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=720)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=720)
 
 </div>
 
