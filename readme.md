@@ -2,14 +2,14 @@
 
 [<img src="./img/Brimston.jpg" width='100%'/>](https://dev-ahad-ali.netlify.app/)
 
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%">
   <tr>
-    <td align="left" style="padding: 10px 0;">
+    <td align="left">
       <a href="https://dev-ahad-ali.netlify.app/" target="_blank" rel="noopener">
       <img src="./img/portfolio.png"/>
       </a>
     </td>
-    <td align="right" style="padding: 10px 0;">
+    <td align="right">
       <img src="https://komarev.com/ghpvc/?username=dev-ahad-ali&color=62748e&style=for-the-badge" alt="Profile Views" />
     </td>
   </tr>
