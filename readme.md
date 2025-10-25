@@ -2,11 +2,24 @@
 
 [<img src="./img/Brimston.jpg" width='100%'/>](https://dev-ahad-ali.netlify.app/)
 
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://dev-ahad-ali.netlify.app/" target="_blank" rel="noopener">
+        <img height="50" src="./img/portfolio.png" alt="Portfolio" />
+      </a>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=dev-ahad-ali&color=62748e&style=for-the-badge" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <div style="max-width:700px; width:100%; box-sizing:border-box;">
     <span style="display:inline-block; width:48%; min-width:120px; text-align:left; vertical-align:middle;">
     🌍
-      <a href="https://dev-ahad-ali.netlify.app/" target="_blank" rel="noopener" style="font-size:20px!important; font-weight:700; text-decoration: underline; color: #00d3f2">
+      <a href="https://dev-ahad-ali.netlify.app/" target="_blank" rel="noopener" style="font-size:20px; font-weight:700; text-decoration: underline; color: #00d3f2">
          Portfolio Website ⤴
       </a>
     </span>
