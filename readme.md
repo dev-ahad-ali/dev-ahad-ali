@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 
-[<img src="./img/Brimston.jpg" width='100%'/>](https://dev-ahad-ali.netlify.app/)
+[<img src="./img/banner.svg" width='100%'/>](https://dev-ahad-ali.netlify.app/)
 
 <table width="100%" align="center">
   <tr>

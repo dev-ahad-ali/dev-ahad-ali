@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <style>
+    @keyframes gradientShift {
+      0% { stop-color: #FF416C; }
+      50% { stop-color: #00F2FE; }
+      100% { stop-color: #FF416C; }
+    }
+    @keyframes textGlow {
+      0%, 100% { filter: drop-shadow(0 0 5px rgba(0, 242, 254, 0.8)); }
+      50% { filter: drop-shadow(0 0 20px rgba(0, 242, 254, 0.8)); }
+    }
+    @keyframes codeFlow {
+      to { stroke-dashoffset: -1000; }
+    }
+    @keyframes particleFloat {
+      0%, 100% { transform: translate(0, 0); }
+      25% { transform: translate(10px, -10px); }
+      50% { transform: translate(0, -20px); }
+      75% { transform: translate(-10px, -10px); }
+    }
+    @keyframes orbit {
+      from { transform: rotate(0deg) translateX(40px) rotate(0deg); }
+      to { transform: rotate(360deg) translateX(40px) rotate(-360deg); }
+    }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 0.8; }
+      50% { transform: scale(1.2); opacity: 1; }
+    }
+    .gradient-text {
+      fill: url(#textGradient);
+      animation: textGlow 3s ease-in-out infinite;
+    }
+    .code-line {
+      stroke-dasharray: 10 20;
+      animation: codeFlow 20s linear infinite;
+    }
+    .particle {
+      animation: particleFloat 4s ease-in-out infinite;
+    }
+    .orbiting {
+      transform-origin: center;
+      animation: orbit 8s linear infinite;
+    }
+    .pulsing {
+      animation: pulse 2s ease-in-out infinite;
+    }
+    .stop-1 { animation: gradientShift 5s ease-in-out infinite; }
+    .stop-2 { animation: gradientShift 5s ease-in-out infinite reverse; }
+  </style>
+
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop class="stop-1" offset="0%" stop-color="#FF416C"/>
+      <stop class="stop-2" offset="100%" stop-color="#00F2FE"/>
+    </linearGradient>
+    <radialGradient id="glowGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00F2FE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background Elements -->
+  <rect width="800" height="200" fill="none"/>
+  
+  <!-- Animated Code Lines -->
+  <g fill="none" stroke="#00F2FE" stroke-width="1" opacity="0.3">
+    <path class="code-line" d="M0 40 Q 200 20 400 40 T 800 40"/>
+    <path class="code-line" d="M0 80 Q 200 100 400 80 T 800 80"/>
+    <path class="code-line" d="M0 120 Q 200 140 400 120 T 800 120"/>
+    <path class="code-line" d="M0 160 Q 200 180 400 160 T 800 160"/>
+  </g>
+
+  <!-- Central Design -->
+  <g transform="translate(400, 100)">
+    <!-- Orbiting Elements -->
+    <g class="orbiting">
+      <circle cx="0" cy="0" r="5" fill="#FF416C" class="pulsing"/>
+    </g>
+    <g class="orbiting" style="animation-delay: -2s">
+      <circle cx="0" cy="0" r="3" fill="#00F2FE" class="pulsing"/>
+    </g>
+    <g class="orbiting" style="animation-delay: -4s">
+      <circle cx="0" cy="0" r="4" fill="#FF416C" class="pulsing"/>
+    </g>
+  </g>
+
+  <!-- Main Text -->
+  <g transform="translate(400, 80)">
+    <text class="gradient-text" text-anchor="middle" font-size="40" font-family="JetBrains Mono" y="10">
+      Ahadul Islam
+    </text>
+  </g>
+
+  <!-- Floating Particles -->
+  <g class="particle" style="animation-delay: -1s">
+    <circle cx="200" cy="50" r="2" fill="#FF416C"/>
+    <circle cx="210" cy="55" r="1" fill="#00F2FE"/>
+  </g>
+  <g class="particle" style="animation-delay: -2s">
+    <circle cx="600" cy="150" r="2" fill="#00F2FE"/>
+    <circle cx="610" cy="155" r="1" fill="#FF416C"/>
+  </g>
+  <g class="particle" style="animation-delay: -3s">
+    <circle cx="300" cy="180" r="2" fill="#FF416C"/>
+    <circle cx="310" cy="185" r="1" fill="#00F2FE"/>
+  </g>
+
+  <!-- Subtitle -->
+  <text text-anchor="middle" x="400" y="120" fill="#00F2FE" font-size="18" font-family="JetBrains Mono" class="">
+    &lt;Programmer &amp; Software Developer/&gt;
+  </text>
+  <text text-anchor="middle" x="250" y="150" fill="#00F2FE" font-size="14" font-family="JetBrains Mono" class="">
+  - ahadali.dev@gmail.com -
+  </text>
+  <text text-anchor="middle" x="550" y="150" fill="#00F2FE" font-size="14" font-family="JetBrains Mono" class="">
+  - linkedin.com/in/dev-ahad-ali -
+  </text>
+</svg>
