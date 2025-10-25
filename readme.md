@@ -5,9 +5,8 @@
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td align="left" style="padding: 10px 0;">
-      🌍
-      <a href="https://dev-ahad-ali.netlify.app/" target="_blank" rel="noopener" style="font-size:20px; font-weight:700; text-decoration: underline; color:#00d3f2;">
-        Portfolio Website 
+      <a href="https://dev-ahad-ali.netlify.app/" target="_blank" rel="noopener">
+      <img src="./img/portfolio.png"/>
       </a>
     </td>
     <td align="right" style="padding: 10px 0;">
