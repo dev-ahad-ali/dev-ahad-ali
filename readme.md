@@ -2,31 +2,20 @@
 
 [<img src="./img/Brimston.jpg" width='100%'/>](https://dev-ahad-ali.netlify.app/)
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="https://dev-ahad-ali.netlify.app/" target="_blank" rel="noopener">
-        <img height="50" src="./img/portfolio.png" alt="Portfolio" />
-      </a>
-    </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=dev-ahad-ali&color=62748e&style=for-the-badge" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <div style="max-width:700px; width:100%; box-sizing:border-box;">
-    <span style="display:inline-block; width:48%; min-width:120px; text-align:left; vertical-align:middle;">
-    🌍
-      <a href="https://dev-ahad-ali.netlify.app/" target="_blank" rel="noopener" style="font-size:20px; font-weight:700; text-decoration: underline; color: #00d3f2">
-         Portfolio Website ⤴
-      </a>
-    </span>
-    <span style="display:inline-block; width:48%; min-width:120px; text-align:right; vertical-align:middle;">
-      <img src="https://komarev.com/ghpvc/?username=dev-ahad-ali&color=62748e&style=for-the-badge" alt="Profile Views" />
-    </span>
-  </div>
+  <table width="90%" style="max-width:800px; border-bottom:1px solid #e4e2e2; padding-bottom:10px; margin-bottom:20px;">
+    <tr>
+      <td align="left" style="vertical-align:middle;">
+        🌍
+        <a href="https://dev-ahad-ali.netlify.app/" target="_blank" rel="noopener" style="font-size:20px; font-weight:700; text-decoration: underline; color:#00d3f2;">
+          Portfolio Website ⤴
+        </a>
+      </td>
+      <td align="right" style="vertical-align:middle;">
+        <img src="https://komarev.com/ghpvc/?username=dev-ahad-ali&color=62748e&style=for-the-badge" alt="Profile Views" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🤖 About Me :
