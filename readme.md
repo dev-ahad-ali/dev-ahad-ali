@@ -51,13 +51,13 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
 
 </div>
 
-## 📊 Top Languages :
+## 📊 Language Usage:
 
 <div align="center">
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahad-ali&theme=transparent&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahad-ali&layout=compact&theme=transparent&langs_count=20&card_width=500&hide_title=true)
 
 </div>
 
