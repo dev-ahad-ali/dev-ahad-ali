@@ -2,7 +2,7 @@
 
 [<img src="./img/Brimston.jpg" width='100%'/>](https://dev-ahad-ali.netlify.app/)
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td align="left">
       <a href="https://dev-ahad-ali.netlify.app/" target="_blank" rel="noopener">
