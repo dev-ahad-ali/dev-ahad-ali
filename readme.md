@@ -6,7 +6,7 @@
   <div style="max-width:700px; width:100%; box-sizing:border-box;">
     <span style="display:inline-block; width:48%; min-width:120px; text-align:left; vertical-align:middle;">
     🌍
-      <a href="https://dev-ahad-ali.netlify.app/" target="_blank" rel="noopener" style="font-size:20px; font-weight:700; text-decoration: underline; color: #00d3f2">
+      <a href="https://dev-ahad-ali.netlify.app/" target="_blank" rel="noopener" style="font-size:20px!important; font-weight:700; text-decoration: underline; color: #00d3f2">
          Portfolio Website ⤴
       </a>
     </span>
