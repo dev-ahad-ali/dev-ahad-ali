@@ -17,6 +17,16 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
 <br>
 💫 <b>Interest</b> : Slowly but surely getting Rust-y 🦀.
 
+## 🔎 GitHub Overview :
+
+<div align="center">
+
+<br>
+
+![](https://streak-stats.demolab.com?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=720)
+
+</div>
+
 ## ⚙️ Skills and Technologies
 
 <table align="center" style="width:100%; border-collapse: collapse;">
@@ -46,16 +56,6 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
   </tr>
 </table>
 
-## 🔎 GitHub Overview :
-
-<div align="center">
-
-<br>
-
-![](https://streak-stats.demolab.com?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=720)
-
-</div>
-
 ## 📊 Language Usage:
 
 <div align="center">
@@ -66,27 +66,46 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
 
 </div>
 
-## 📟 Projects :
+## 📌 Featured Projects :
 
-### 🏠 Foot Finesse (An online shoe selling platform)
-
-- **Live site**: [Foot Finesse](https://foot-finesse-alpha.vercel.app/)
-- [Visit repo for more details.](https://github.com/dev-ahad-ali/Foot-Finesse).
-
-### 💒 Dream Stay (A hotel room booking website)
-
-- **Live site**: [Dream Stay](https://dream-stay-indev.web.app/)
-- [Visit repo for more details.](https://github.com/dev-ahad-ali/dream-stay-client).
-
-### 🏠 Urban Oasis (An online real estate management platform)
-
-- **Live site**: [Urban Oasis](https://urban-oasis-indev.web.app/)
-- [Visit repo for more details.](https://github.com/dev-ahad-ali/urban-oasis-client).
-
-### 📦 Art Alley (A art listing website)
-
-- **Live site**: [Art Alley](https://art-alley.web.app/)
-- [Visit repo for more details.](https://github.com/dev-ahad-ali/art-alley-client).
+<table align="center" style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td align="center" width="50%" style="padding: 15px; border-right: 1px solid #eaeaea;">
+      <h3>👟 Foot Finesse</h3>
+      <p>An online shoe selling platform</p>
+      <p>
+        🔗 <a href="https://foot-finesse-alpha.vercel.app/" target="_blank">Live Site</a><br/>
+        📂 <a href="https://github.com/dev-ahad-ali/Foot-Finesse" target="_blank">View Repository</a>
+      </p>
+    </td>
+    <td align="center" width="50%" style="padding: 15px;">
+      <h3>💒 Dream Stay</h3>
+      <p>A hotel room booking website</p>
+      <p>
+        🔗 <a href="https://dream-stay-indev.web.app/" target="_blank">Live Site</a><br/>
+        📂 <a href="https://github.com/dev-ahad-ali/dream-stay-client" target="_blank">View Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding: 15px; border-top: 1px solid #eaeaea; border-right: 1px solid #eaeaea;">
+      <h3>🏙️ Urban Oasis</h3>
+      <p>An online real estate management platform</p>
+      <p>
+        🔗 <a href="https://urban-oasis-indev.web.app/" target="_blank">Live Site</a><br/>
+        📂 <a href="https://github.com/dev-ahad-ali/urban-oasis-client" target="_blank">View Repository</a>
+      </p>
+    </td>
+    <td align="center" width="50%" style="padding: 15px; border-top: 1px solid #eaeaea;">
+      <h3>🎨 Art Alley</h3>
+      <p>An art listing website</p>
+      <p>
+        🔗 <a href="https://art-alley.web.app/" target="_blank">Live Site</a><br/>
+        📂 <a href="https://github.com/dev-ahad-ali/art-alley-client" target="_blank">View Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Find me on:
 
