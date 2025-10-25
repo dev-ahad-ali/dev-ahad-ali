@@ -36,7 +36,7 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
     <td align="center" width="50%" style="padding: 15px; border-top: 1px solid #eaeaea; border-right: 1px solid #eaeaea;">
       <h3>Databases</h3>
       <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,mysql" />
-      <img src="https://skillicons.dev/icons?i=sqlite" />
+      <img src="https://skillicons.dev/icons?i=sqlite," />
     </td>
     <td align="center" width="50%" style="padding: 15px; border-top: 1px solid #eaeaea;">
       <h3>Tools</h3>
