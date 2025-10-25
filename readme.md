@@ -19,27 +19,32 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
 
 ## ⚙️ Skills and Technologies
 
-<div align="center" style="display:grid; grid-template-columns:repeat(2, 1fr); column-gap:20px;">
-<div>
-<h3>Programming Language</h3>
-  <img src="https://skillicons.dev/icons?i=ts,js,rust,html,css" />
-  <img src="https://skillicons.dev/icons?i=bash,markdown," />
-</div>
-<div>
-<h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,redux" />
-  <img src="https://skillicons.dev/icons?i=astro,firebase,tailwind,sass,bootstrap" />
-</div>
-<div>
-<h3>Database</h3>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,mysql" />
-</div>
-<div>
-<h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,neovim,github" />
-  <img src="https://skillicons.dev/icons?i=postman,vscode,figma,ai" />
-</div>
-</div>
+<table align="center" style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td align="center" width="50%" style="padding: 15px; border-right: 1px solid #eaeaea;">
+      <h3>Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=ts,js,rust,html,css" /><br/>
+      <img src="https://skillicons.dev/icons?i=bash,markdown" />
+    </td>
+    <td align="center" width="50%" style="padding: 15px;">
+      <h3>Frameworks & Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,redux" /><br/>
+      <img src="https://skillicons.dev/icons?i=astro,firebase,tailwind,sass,bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding: 15px; border-top: 1px solid #eaeaea; border-right: 1px solid #eaeaea;">
+      <h3>Databases</h3>
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,mysql" />
+      <img src="https://skillicons.dev/icons?i=sqlite" />
+    </td>
+    <td align="center" width="50%" style="padding: 15px; border-top: 1px solid #eaeaea;">
+      <h3>Tools</h3>
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,neovim,github" /><br/>
+      <img src="https://skillicons.dev/icons?i=postman,vscode,figma,ai" />
+    </td>
+  </tr>
+</table>
 
 ## 🔎 GitHub Overview :
 
