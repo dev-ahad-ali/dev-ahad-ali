@@ -1,14 +1,7 @@
 <!-- Banner Image -->
 
 [<img src="./img/Brimston.jpg" width='100%'/>](https://dev-ahad-ali.netlify.app/)
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=dev-ahad-ali&color=f97316&style=for-the-badge)
-
-# 👋 Hello ! I'm Ahad Ali a WEB Developer.
-
-<br>
+![](https://komarev.com/ghpvc/?username=dev-ahad-ali&color=62748e&style=for-the-badge)
 
 <div align='center'>
 <a href="https://dev-ahad-ali.netlify.app/" target="_blank">
@@ -18,23 +11,34 @@
 
 ## 🤖 About Me :
 
-I am a keen Web developer who is always looking to learn new and exciting things.Currently a <b>M.E.R.N</b> stack enthusiast but I like to work with new and exciting technologies. I'm on a mission of creating innovative and immersive digital experiences with a solid base so it can be scalable based on needs.
+A passionate **Programmer** and a equally passionate **Learner**. Currently working as a **Full Stack Web Developer**. Always like to discover thoughtful and exciting technologies and topics. Crafting innovative and immersive digital experiences with a solid base so it can be scalable based on needs.
 
-<i>Ohh.. btw Javascript is more flexible then a gymnastics..</i> 😂
-
-🎯 <b>Currently Interest</b> : Slowly but surely getting Rust-y 🦀.
+🎯 <b>Learning</b> : React Native app development ⚛️.
+<br>
+💫 <b>Interest</b> : Slowly but surely getting Rust-y 🦀.
 
 ## ⚙️ Skills and Technologies
 
-<div align="center">
-
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,astro,react,redux,express,mongodb,tailwind" />
-  <br>
-  <br>
-  <img src="https://skillicons.dev/icons?i=linux,neovim,git,github,vscode,postman,bootstrap,sass,figma,ai" />
-
+<div align="center" style="display:grid; grid-template-columns:repeat(2, 1fr); column-gap:20px;">
+<div>
+<h3>Programming Language</h3>
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,html,css" />
+  <img src="https://skillicons.dev/icons?i=bash,markdown," />
+</div>
+<div>
+<h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,redux" />
+  <img src="https://skillicons.dev/icons?i=astro,firebase,tailwind,sass,bootstrap" />
+</div>
+<div>
+<h3>Database</h3>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,mysql" />
+</div>
+<div>
+<h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,neovim,github" />
+  <img src="https://skillicons.dev/icons?i=postman,vscode,figma,ai" />
+</div>
 </div>
 
 ## 🔎 GitHub Overview :
@@ -94,6 +98,6 @@ I am a keen Web developer who is always looking to learn new and exciting things
   </a>
 </div>
 
-<p align="center">📝Feel free to explore my repositories below and reach out if you're looking for an enthusiastic Web Developer I'm ready to bring creativity and a strong work ethic to your team.</p>
+<p align="center">📝Feel free to explore my repositories below and reach out if you're looking for an enthusiastic Programmer/Developer I'm ready to bring creativity and a strong work ethic to your team.</p>
 
 <br>
