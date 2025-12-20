@@ -29,7 +29,7 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
 
 <br>
 
-![](https://streak-stats.demolab.com?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=720)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-ahad-ali&theme=dark&hide_border=true&card_width=720)](https://git.io/streak-stats)
 
 </div>
 
