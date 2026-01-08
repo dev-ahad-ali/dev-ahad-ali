@@ -1,11 +1,11 @@
 <!-- Banner Image -->
 
-[<img src="./img/banner.svg" width='100%'/>](https://dev-ahad-ali.netlify.app/)
+[<img src="./img/banner.svg" width='100%'/>](https://dev-ahad-ali.vercel.app/)
 
 <table width="100%" align="center">
   <tr>
     <td align="left">
-      <a href="https://dev-ahad-ali.netlify.app/" target="_blank" rel="noopener">
+      <a href="https://dev-ahad-ali.vercel.app/" target="_blank" rel="noopener">
       <img src="./img/portfolio.png"/>
       </a>
     </td>
