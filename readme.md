@@ -19,9 +19,9 @@
 
 A passionate **Programmer** and a equally passionate **Learner**. Currently working as a **Full Stack Web Developer**. Always looking to discover thoughtful and exciting technologies and topics. Crafting innovative and immersive digital experiences with a solid base so it can be scalable based on needs.
 
-🎯 <b>Learning</b> : React Native app development ⚛️.
+🎯 <b>Currently focusing on</b> : Deepening Backend expertise and System Design ! 💭
 <br>
-💫 <b>Interest</b> : Slowly but surely getting Rust-y 🦀.
+💫 <b>Hobby Interest</b> : Slowly but surely getting Rust-y 🦀.
 
 ## 🔎 GitHub Overview :
 
@@ -128,6 +128,6 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
   </a>
 </div>
 
-<p align="center">📝Feel free to explore my repositories below and reach out if you're looking for an enthusiastic Programmer/Developer I'm ready to bring creativity and a strong work ethic to your team.</p>
+<p align="center">📝Feel free reach out if you're looking for an enthusiastic Programmer/Developer I'm ready to bring creativity and a strong work ethic to your team.</p>
 
 <br>
