@@ -21,7 +21,7 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
 
 🎯 <b>Currently focusing on</b> : Deepening Backend expertise and System Design ! 💭
 <br>
-💫 <b>Hobby Interest</b> : On the <span style='font-weight:900; font-style:italic; color:#5fafe0;'>GO</span>.
+💫 <b>Learning Interest</b> : <span style="display: inline-flex; align-items: center;" >On the <img src="./img/go.svg" width="32px"  style="margin-left: 5px"/> </span>.
 
 ## 🔎 GitHub Overview :
 
