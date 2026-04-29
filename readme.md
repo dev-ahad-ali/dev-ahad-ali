@@ -21,7 +21,7 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
 
 🎯 <b>Currently focusing on</b> : Deepening Backend expertise and System Design ! 💭
 <br>
-💫 <b>Hobby Interest</b> : Slowly but surely getting Rust-y 🦀.
+💫 <b>Hobby Interest</b> : On the <span style='font-weight:900; font-style:italic; color:#5fafe0;'>GO</span>.
 
 ## 🔎 GitHub Overview :
 
@@ -39,7 +39,7 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
   <tr>
     <td align="center" width="50%" style="padding: 15px; border-right: 1px solid #eaeaea;">
       <h3>Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=ts,js,rust,html,css" /><br/>
+      <img src="https://skillicons.dev/icons?i=ts,js,go,html,css" /><br/>
       <img src="https://skillicons.dev/icons?i=bash,markdown" />
     </td>
     <td align="center" width="50%" style="padding: 15px;">
