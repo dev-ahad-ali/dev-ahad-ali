@@ -128,6 +128,6 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
   </a>
 </div>
 
-<p align="center">📝Feel free reach out if you're looking for an enthusiastic Programmer/Developer I'm ready to bring creativity and a strong work ethic to your team.</p>
+<p align="center">📝Feel free reach out if you're looking for an enthusiastic Programmer/Developer.</p>
 
 <br>
