@@ -76,6 +76,14 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
 
 <table align="center" style="width:100%; border-collapse: collapse;">
   <tr>
+      <td align="center" width="50%" style="padding: 15px;">
+        <h3>↔️ Karousel Navigator</h3>
+        <p>A tiny KDE Plasma panel widget for scrolling window layouts</p>
+        <p>
+          🔗 <a href="https://www.opendesktop.org/p/2370215/" target="_blank">Live Site</a><br/>
+          📂 <a href="https://github.com/dev-ahad-ali/karousel-navigator-kde" target="_blank">View Repository</a>
+        </p>
+      </td>
     <td align="center" width="50%" style="padding: 15px; border-right: 1px solid #eaeaea;">
       <h3>👟 Foot Finesse</h3>
       <p>An online shoe selling platform</p>
@@ -84,24 +92,16 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
         📂 <a href="https://github.com/dev-ahad-ali/Foot-Finesse" target="_blank">View Repository</a>
       </p>
     </td>
-    <td align="center" width="50%" style="padding: 15px;">
-      <h3>💒 Dream Stay</h3>
-      <p>A hotel room booking website</p>
-      <p>
-        🔗 <a href="https://dream-stay-indev.web.app/" target="_blank">Live Site</a><br/>
-        📂 <a href="https://github.com/dev-ahad-ali/dream-stay-client" target="_blank">View Repository</a>
-      </p>
-    </td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="padding: 15px; border-top: 1px solid #eaeaea; border-right: 1px solid #eaeaea;">
-      <h3>🏙️ Urban Oasis</h3>
-      <p>An online real estate management platform</p>
-      <p>
-        🔗 <a href="https://urban-oasis-indev.web.app/" target="_blank">Live Site</a><br/>
-        📂 <a href="https://github.com/dev-ahad-ali/urban-oasis-client" target="_blank">View Repository</a>
-      </p>
-    </td>
+      <td align="center" width="50%" style="padding: 15px;">
+        <h3>💒 Dream Stay</h3>
+        <p>A hotel room booking website</p>
+        <p>
+          🔗 <a href="https://dream-stay-indev.web.app/" target="_blank">Live Site</a><br/>
+          📂 <a href="https://github.com/dev-ahad-ali/dream-stay-client" target="_blank">View Repository</a>
+        </p>
+      </td>
     <td align="center" width="50%" style="padding: 15px; border-top: 1px solid #eaeaea;">
       <h3>🎨 Art Alley</h3>
       <p>An art listing website</p>
