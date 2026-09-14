@@ -29,10 +29,10 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=720)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=720)](https://git.io/streak-stats)-->
 
 <!-- Self Hosted -->
-<!--[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=720)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=dev-ahad-ali&theme=dark&hide_border=true&mode=weekly&card_width=720)](https://git.io/streak-stats)
 
 </div>
 
