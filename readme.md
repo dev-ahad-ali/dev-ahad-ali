@@ -15,15 +15,15 @@
   </tr>
 </table>
 
-## 🤖 About Me :
+## About Me :
 
 A passionate **Programmer** and a equally passionate **Learner**. Currently working as a **Full Stack Web Developer**. Always looking to discover thoughtful and exciting technologies and topics. Crafting innovative and immersive digital experiences with a solid base so it can be scalable based on needs.
 
-🎯 <b>Currently focusing on</b> : Deepening Backend expertise and System Design ! 💭
+<b>Currently focusing on</b> : Deepening Backend expertise and System Design !
 <br>
-💫 <b>Learning Interest</b> : On the ![](./img/go.svg).
+<b>Learning Interest</b> : On the ![](./img/go.svg).
 
-## 🔎 GitHub Overview :
+## GitHub Overview :
 
 <div align="center">
 
@@ -36,7 +36,7 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
 
 </div>
 
-## ⚙️ Skills and Technologies
+## Skills and Technologies
 
 <table align="center" style="width:100%; border-collapse: collapse;">
   <tr>
@@ -65,7 +65,7 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
   </tr>
 </table>
 
-## 📊 Language Usage:
+## Language Usage:
 
 <div align="center">
 
@@ -75,51 +75,50 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
 
 </div>
 
-## 📌 Featured Projects :
+## Featured Projects :
 
 <table align="center" style="width:100%; border-collapse: collapse;">
   <tr>
       <td align="center" width="50%" style="padding: 15px;">
-        <h3>↔️ Karousel Navigator</h3>
-        <p>A tiny KDE Plasma panel widget for scrolling window layouts</p>
+        <h3>Statify</h3>
+        <p>Privacy-first analytics for human and Al agent traffic</p>
         <p>
-          🔗 <a href="https://www.opendesktop.org/p/2370215/" target="_blank">Live Site</a><br/>
-          📂 <a href="https://github.com/dev-ahad-ali/karousel-navigator-kde" target="_blank">View Repository</a>
+          <a href="https://statify-app.pages.dev/" target="_blank">Live</a><br/>
+          <a href="https://github.com/dev-ahad-ali/statify" target="_blank">View Repository</a>
         </p>
       </td>
-    <td align="center" width="50%" style="padding: 15px; border-right: 1px solid #eaeaea;">
-      <h3>👟 Foot Finesse</h3>
-      <p>An online shoe selling platform</p>
-      <p>
-        🔗 <a href="https://foot-finesse-alpha.vercel.app/" target="_blank">Live Site</a><br/>
-        📂 <a href="https://github.com/dev-ahad-ali/Foot-Finesse" target="_blank">View Repository</a>
-      </p>
-    </td>
+      <td align="center" width="50%" style="padding: 15px;">
+        <h3>Karousel Navigator</h3>
+        <p>A tiny KDE Plasma panel widget for scrolling window layouts</p>
+        <p>
+          <a href="https://www.opendesktop.org/p/2370215/" target="_blank">Live</a><br/>
+          <a href="https://github.com/dev-ahad-ali/karousel-navigator-kde" target="_blank">View Repository</a>
+        </p>
+      </td>
   </tr>
   <tr>
       <td align="center" width="50%" style="padding: 15px;">
-        <h3>💒 Dream Stay</h3>
+        <h3>Dream Stay</h3>
         <p>A hotel room booking website</p>
         <p>
-          🔗 <a href="https://dream-stay-indev.web.app/" target="_blank">Live Site</a><br/>
-          📂 <a href="https://github.com/dev-ahad-ali/dream-stay-client" target="_blank">View Repository</a>
+          <a href="https://dream-stay-indev.web.app/" target="_blank">Live</a><br/>
+          <a href="https://github.com/dev-ahad-ali/dream-stay-client" target="_blank">View Repository</a>
         </p>
       </td>
-    <td align="center" width="50%" style="padding: 15px; border-top: 1px solid #eaeaea;">
-      <h3>🎨 Art Alley</h3>
-      <p>An art listing website</p>
-      <p>
-        🔗 <a href="https://art-alley.web.app/" target="_blank">Live Site</a><br/>
-        📂 <a href="https://github.com/dev-ahad-ali/art-alley-client" target="_blank">View Repository</a>
-      </p>
-    </td>
+      <td align="center" width="50%" style="padding: 15px; border-right: 1px solid #eaeaea;">
+        <h3>Foot Finesse</h3>
+        <p>An online shoe selling platform</p>
+        <p>
+          <a href="https://foot-finesse-alpha.vercel.app/" target="_blank">Live</a><br/>
+          <a href="https://github.com/dev-ahad-ali/Foot-Finesse" target="_blank">View Repository</a>
+        </p>
+      </td>
   </tr>
 </table>
 
-## 🌐 Find me on:
+## Find me on:
 
 <div align="center">
-<br>
   <a href="https://www.linkedin.com/in/dev-ahad-ali/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -130,7 +129,3 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </div>
-
-<p align="center">📝Feel free reach out if you're looking for an enthusiastic Programmer/Developer.</p>
-
-<br>
