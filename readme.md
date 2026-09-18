@@ -36,7 +36,7 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
 
 </div>
 
-## Skills and Technologies
+## Skills and Technologies :
 
 <table align="center" style="width:100%; border-collapse: collapse;">
   <tr>
@@ -99,7 +99,7 @@ A passionate **Programmer** and a equally passionate **Learner**. Currently work
   <tr>
       <td align="center" width="50%" style="padding: 15px;">
         <h3>Dream Stay</h3>
-        <p>A hotel room booking website</p>
+        <p>A hotel room booking application</p>
         <p>
           <a href="https://dream-stay-indev.web.app/" target="_blank">Live</a><br/>
           <a href="https://github.com/dev-ahad-ali/dream-stay-client" target="_blank">View Repository</a>
