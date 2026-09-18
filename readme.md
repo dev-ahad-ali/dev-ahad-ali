@@ -17,7 +17,7 @@
 
 ## About Me :
 
-A passionate **Programmer** and a equally passionate **Learner**. Currently working as a **Full Stack Web Developer**. Always looking to discover thoughtful and exciting technologies and topics. Crafting innovative and immersive digital experiences with a solid base so it can be scalable based on needs.
+A passionate **Programmer** and a equally passionate **Learner**. Currently working as a **Full Stack Developer**. Always looking to discover thoughtful and exciting technologies and topics. Crafting innovative and immersive digital experiences with a solid base so it can be scalable based on needs.
 
 <b>Currently focusing on</b> : Deepening Backend expertise and System Design !
 <br>
